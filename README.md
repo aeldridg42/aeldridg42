@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🚀 About me:
-My name is Azat
+Student of school21 in Kazan
 
 - :mailbox: How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/av603)
 
